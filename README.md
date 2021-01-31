@@ -1,2 +1,2 @@
-# Disk scheduling algoritms
+# Disk scheduling algorithms
  using python language
